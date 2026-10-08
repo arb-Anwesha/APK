@@ -1,0 +1,6 @@
+{
+  "name": "অন্বেষার ভিডিও স্টুডিও",
+  "description": "অন্বেষার রসনা বিলাস-এর পূর্ণাঙ্গ ভিডিও এডিটর এবং এআই ভিডিও স্টুডিও",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

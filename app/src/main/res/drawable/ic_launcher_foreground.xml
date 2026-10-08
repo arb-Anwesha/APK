@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera body / Video Studio Clapper symbol -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M30,34 h48 c3.3,0 6,2.7 6,6 v28 c0,3.3 -2.7,6 -6,6 h-48 c-3.3,0 -6,-2.7 -6,-6 v-28 c0,-3.3 2.7,-6 6,-6 z" />
+    <!-- Film reel / Lens circle -->
+    <path
+        android:fillColor="#8B1E0F"
+        android:pathData="M54,54 m-14,0 a14,14 0 1,1 28,0 a14,14 0 1,1 -28,0" />
+    <!-- Play button inside lens -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M50,46 l12,8 l-12,8 z" />
+    <!-- Culinary chef spark / flame flourish on top right -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M68,26 c0,0 8,3 8,10 c-3,-2 -6,-2 -8,-1 c0,-3 1,-7 0,-9 z" />
+    <!-- Spice / aroma steam curves -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M40,28 c2,-2 4,-1 5,1 c-1,2 -3,3 -5,2 z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M52,26 c2,-2 4,-1 5,1 c-1,2 -3,3 -5,2 z" />
+</vector>

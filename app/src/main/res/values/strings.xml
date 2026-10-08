@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">অন্বেষার ভিডিও স্টুডিও</string>
+    <string name="business_name">অন্বেষার রসনা বিলাস</string>
+    <string name="business_tagline">বাঙালিয়ানার চেনা স্বাদ, ঘরের রান্নায় সেরা স্বাদ।</string>
+    <string name="business_phone">৮৫০৯৩৬০৩২৭</string>
+    <string name="business_website">anweshar-roshona-bilas.ai.studio</string>
+    <string name="mode_full_editor">পূর্ণ ভিডিও এডিটর</string>
+    <string name="mode_ai_studio">AI ভিডিও জেনারেটর</string>
+</resources>
